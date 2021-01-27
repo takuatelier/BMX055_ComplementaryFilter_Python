@@ -17,3 +17,4 @@ Run the program on a Raspberry Pi4 and get the values for the Roll, Pitch and Ya
 [Philip Salmony：IMU Attitude Estimation](http://philsal.co.uk/projects/imu-attitude-estimation)
 
 ## License
+[MIT](https://github.com/takuatelier/BMX055_ComplementaryFilter_Python/blob/main/LICENSE)
